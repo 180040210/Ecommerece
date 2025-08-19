@@ -1,0 +1,9 @@
+/workspace/springboot-fullstack/src/main/java/com/example/fullstack/SpringbootFullstackApplication.java
+/workspace/springboot-fullstack/src/main/java/com/example/fullstack/common/GlobalExceptionHandler.java
+/workspace/springboot-fullstack/src/main/java/com/example/fullstack/config/DataInitializer.java
+/workspace/springboot-fullstack/src/main/java/com/example/fullstack/task/Task.java
+/workspace/springboot-fullstack/src/main/java/com/example/fullstack/task/TaskController.java
+/workspace/springboot-fullstack/src/main/java/com/example/fullstack/task/TaskRepository.java
+/workspace/springboot-fullstack/src/main/java/com/example/fullstack/task/TaskRestController.java
+/workspace/springboot-fullstack/src/main/java/com/example/fullstack/task/TaskService.java
+/workspace/springboot-fullstack/src/main/java/com/example/fullstack/web/HomeController.java

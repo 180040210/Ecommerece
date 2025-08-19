@@ -1,0 +1,9 @@
+com/example/fullstack/web/HomeController.class
+com/example/fullstack/config/DataInitializer.class
+com/example/fullstack/SpringbootFullstackApplication.class
+com/example/fullstack/common/GlobalExceptionHandler.class
+com/example/fullstack/task/TaskService.class
+com/example/fullstack/task/TaskController.class
+com/example/fullstack/task/TaskRepository.class
+com/example/fullstack/task/Task.class
+com/example/fullstack/task/TaskRestController.class
